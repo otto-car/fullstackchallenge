@@ -41,7 +41,7 @@ Before you get started, make sure to read through all the levels below.
 - Clean, readable, maintainable codebase
 - Source code on Github
 
-####Levels of Awesome
+#### Levels of Awesome
 
 Choose one of the following routes for your journey. 
 
