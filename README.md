@@ -11,9 +11,9 @@ Your challenge consists of two parts: the front-end and the back-end.
 
 The front-end must contain two views.
 
-The first view contains a form and a table.
+The first view (Cars) contains a form and a table, where a user can add and view cars.
 
-The second view contains a table with statistics.
+The second view (Statistics) contains a table with statistics, described below.
 
 ### Back End 
 
