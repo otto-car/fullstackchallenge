@@ -19,7 +19,7 @@ The second view (Statistics) contains a table with statistics, described below.
 
 The back-end must include a web server with two endpoints: `/cars` (for cars) and `/stats` (for statistics on cars and HTTP requests).
 
-The first endpoint, `/cars`, must accept HTTP requests sent using CRUD methods (`GET`, `POST`, `PUT`, `DELETE`) and respond back with JSON describing the request. The JSON must contain the following:
+The first endpoint, `/cars`, must accept HTTP requests sent using CRUD methods (`GET`, `POST`, `PUT`, `DELETE`) and respond back with JSON describing the status of the request (success, failed, etc).
 
 This is the information we store about each car:
 - Make (e.g. Tesla)
