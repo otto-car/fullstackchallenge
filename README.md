@@ -76,7 +76,7 @@ Choose one of the following routes for your journey.
 * All of the base, novice, and intermediate requirements
 + Allow users to filter/search through the table of cars
 * All of the base, novice, intermediate and expert requirements
-+ Host the application online and use a server framework
++ Host the application online and use a server framework (we enjoy hosting services like AWS, Azure, Heroku and DigitalOcean but you're welcome to use a different hosting provider)
 + Show us your work through your commit history
 
 -------
@@ -85,4 +85,4 @@ Choose one of the following routes for your journey.
 *"All is fair in love and bonus rounds"*
 
 **TASKS**
-+ Surprise us! Add a feature that you think would work well here (for instance, advanced search, integration with other API, a "Favorite" functionality)
++ Surprise us! Add a feature that you think would work well here; for instance, advanced search, integration with other API, a "Favorite" functionality
