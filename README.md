@@ -1,7 +1,7 @@
 Full Stack Challenge
 ====================
 
-This code challenge allows you to demonstrate your ability to build a backend, but gives us a chance to see how you code and how you use version control.
+This code challenge allows you to demonstrate your ability to build a simple web application, but gives us a chance to see how you code and how you use version control.
 
 We deal with lots and lots of cars on a day-to-day basis, so naturally this will be related to automotives. 
 
