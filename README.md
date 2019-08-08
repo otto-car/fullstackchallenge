@@ -62,6 +62,7 @@ Choose one of the following routes for your journey.
 
 **TASKS**
 * All of the base, and novice requirements
++ Use a database for persistence of data
 + Use a JavaScript framework (Angular, React, Backbone, etc...)
 + Use SASS or LESS for custom CSS
 + Make use of CSS animations
@@ -75,7 +76,6 @@ Choose one of the following routes for your journey.
 **TASKS**
 * All of the base, novice, and intermediate requirements
 + Allow users to filter/search through the table of cars
-* All of the base, novice, intermediate and expert requirements
 + Host the application online and use a server framework (we enjoy hosting services like AWS, Azure, Heroku and DigitalOcean but you're welcome to use a different hosting provider)
 + Show us your work through your commit history
 
